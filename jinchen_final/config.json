@@ -1,0 +1,16 @@
+{
+  "env": "dev",
+  "model": {
+    "provider": "deepseek",
+    "model": "deepseek-coder",
+    "api_key": "sk-xxx",
+    "base_url": "",
+    "timeout": 60
+  },
+  "skill_dir": "Toolkit/skills",
+  "user": "jincheng",
+  "feedback_dir": "feedback",
+  "verdict_dir": "verdicts",
+  "violation_log": "violations.jsonl",
+  "project_root": "."
+}
